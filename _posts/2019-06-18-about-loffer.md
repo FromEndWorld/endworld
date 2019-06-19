@@ -2,7 +2,7 @@
 layout: post
 title: "一些关于LOFFER的笔记"
 date:   2019-06-18
-tags: [技术]
+tags: [技术,翻墙]
 comments: true
 author: 来自中世界
 ---
