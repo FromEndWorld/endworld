@@ -76,7 +76,7 @@ p {
 }
 
 a {
-  color: $oc-teal-8;
+  color: $link-color;
   text-decoration: none;
   cursor: pointer;
   &:hover, &:active {
@@ -316,7 +316,7 @@ img {
   width: 30%;
 	-webkit-background-size: cover;
 	background-size: cover;
-	background-color: $oc-gray-0;
+	background-color: $background-color;
 	height: 100%;
 	top: 0;
 	left:0;
@@ -371,7 +371,7 @@ img {
 
 .site-name {
   margin: 0 auto;
-  color: $oc-gray-9;
+  color: $base-color;
   cursor: pointer;
   font-family: $base-font;
   font-weight: 700;
@@ -381,7 +381,7 @@ img {
 
 .site-description {
   margin: 15px auto;
-  color: $oc-gray-7;
+  color: $base-lighten-color;
   font-size: 16px;
 
   @include mobile {
@@ -407,14 +407,13 @@ nav {
 
   a {
     margin: 0 10px;
-    color: $oc-gray-8;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $oc-teal-8;
+      color: $link-color;
     }
   }
 }
@@ -526,7 +525,7 @@ nav {
       color: $base-lighten-color;
       border: 1px solid $divider-color;
       padding: 10px 20px;
-      background: $oc-gray-0;
+      background: $background-color;
 
       &:hover, &:focus {
         color: $link-lighten-color;
@@ -544,7 +543,7 @@ nav {
       color: $base-lighten-color;
       border: 1px solid $divider-color;
       padding: 10px 20px;
-      background: $oc-gray-0;
+      background: $background-color;
 
       &:hover, &:focus {
         color: $link-lighten-color;
