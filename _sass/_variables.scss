@@ -33,6 +33,8 @@ $base-lighten-color: $oc-gray-6;
 
 $text-color: $base-color;
 $link-color: $oc-teal-8;
+$link-hover-color: $oc-teal-6;
+$link-bghv-color: $oc-teal-1;
 $divider-color: $oc-gray-1;
 
 $table-border-color: $oc-gray-2;
@@ -46,9 +48,6 @@ $footnote-link-background-over-color: $oc-gray-1;
 
 $selection-color: $oc-black;
 $selection-background-color: $oc-gray-1;
-
-$pagination-color: $oc-gray-6;
-$pagination-over-color: $oc-gray-8;
 
 $tag-index-label-color: $base-color;
 $tag-index-label-background-color: $oc-gray-2;
