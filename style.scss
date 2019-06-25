@@ -27,8 +27,8 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 800px;
-  padding: 0 16px;
+  max-width: 1000px;
+  padding: 0 20px;
   width: 100%;
 }
 
@@ -434,10 +434,10 @@ nav {
 // Posts
 
 .posts{
-  margin: 40px;
+//  margin: 40px;
 
   @include mobile {
-    margin: 24px;
+//    margin: 24px;
   }
 
   .tag {
@@ -499,16 +499,13 @@ nav {
 }
 
 .page {
-  margin: 40px;
+//  margin: 40px;
 
   @include mobile {
-    margin: 24px;
+//    margin: 24px;
   }
 }
 
-.entry {
-  max-width: 1000px;
-} 
 
 .pagination {
   border-top: 1px solid $divider-color;
