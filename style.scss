@@ -461,9 +461,14 @@ nav {
       > a {
         margin: 3px 3px 3px 0;
         padding: .5px 4px;
-        color: $tag-index-label-color;
+        color: $base-color;
         background-color: $tag-index-label-background-color;
         border-radius: 3px;
+
+        &:hover {
+          color: $link-color;
+          background-color:$$link-bghv-color;
+        }
       }
     }
   }
@@ -588,12 +593,12 @@ nav {
     > a {
       display: inline-block;
       margin: 1px;
-      color: $tag-index-label-color;
+      color: $base-color;
       background-color: $tag-index-label-background-color;
       border-radius: 3px;
 
       &:hover {
-        background-color: $tag-index-label-bghv-color;
+        background-color: $link-bghv-color;
       }
 
       span {
@@ -604,9 +609,6 @@ nav {
           background-color: $tag-index-count-background-color;
           border-radius: 0 3px 3px 0;
 
-          &:hover {
-            background-color: $tag-index-count-bghv-color;
-          }
         }
       }
     }
