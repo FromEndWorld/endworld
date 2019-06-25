@@ -31,6 +31,8 @@ $small-font-size: 14px;
 $base-color: $oc-gray-8;
 $base-lighten-color: $oc-gray-6;
 
+$background-color: $oc-gray-0;
+
 $text-color: $base-color;
 $link-color: $oc-teal-8;
 $link-lighten-color: $oc-teal-6;
@@ -52,6 +54,9 @@ $selection-background-color: $oc-gray-1;
 $tag-index-label-color: $base-color;
 $tag-index-label-background-color: $oc-gray-2;
 $tag-index-count-background-color: $oc-gray-3;
+
+$tag-index-label-bghv-color: $oc-teal-0;
+$tag-index-count-bghv-color: $oc-teal-1;
 
 $footer-border-color: $oc-gray-2;
 $footer-background-color: $oc-gray-0;
