@@ -13,8 +13,6 @@ author: 来自中世界
 
 先简要介绍一下，Whangaparaoa是个奥克兰北边的小小半岛，有一些居民，中间有个游艇码头叫做Gulf Harbour，靠海的东端是Shakespear Regional Park。
 
----
-
 因为是小半岛，所以几乎哪里都在海边，环境超级棒，房子几乎都是新盖的，Google Earth上有的都还看不到，随便出门走上几步就很漂亮。
 
 ![IMG_8857.JPG](https://i.loli.net/2019/01/06/5c31880961397.jpg)

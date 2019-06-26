@@ -11,8 +11,6 @@ author: 来自中世界
 
 我们爬上去又爬下来，大概花了40分钟吧，当时有点赶时间……
 
----
-
 ![IMG_8793.JPG](https://i.loli.net/2019/01/06/5c31836ba614a.jpg)
 
 ![IMG_8790.JPG](https://i.loli.net/2019/01/06/5c31836bc7bbc.jpg)
