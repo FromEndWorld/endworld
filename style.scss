@@ -276,11 +276,11 @@ img {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $selection-color;
+//  color: $selection-color;
   background: $selection-background-color;
 }
 ::selection {
-  color: $selection-color;
+//  color: $selection-color;
   background: $selection-background-color;
 }
 
@@ -347,6 +347,7 @@ img {
     text-align: center;
   }
 }
+
 .site-info {
   text-align:center;
   margin: 100px auto 0;
@@ -439,11 +440,6 @@ nav {
 // Posts
 
 .posts{
-//  margin: 40px;
-
-  @include mobile {
-//    margin: 24px;
-  }
 
   .tag {
     display: inline;
@@ -526,7 +522,7 @@ nav {
 
   @include mobile {
     font-size: $small-font-size;
-    padding: 24px;
+    padding: 24px 0;
   }
 
   > .prev {
@@ -704,3 +700,4 @@ footer {
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
+
