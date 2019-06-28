@@ -811,9 +811,11 @@
   padding: 1.25em 0;
   text-align: center;
 }
+
+/*
 .gt-container .gt-link {
-  border-bottom: 1px dotted $link;
-}
+  border-bottom: 1px dotted $link-color;
+}*/
 .gt-container .gt-link-counts,
 .gt-container .gt-link-project {
   text-decoration: none;
@@ -860,7 +862,7 @@
   fill: inherit;
 }
 .gt-container .gt-user .is--poping .gt-ico svg {
-  fill: $link;
+  fill: $link-color;
 }
 .gt-container .gt-version {
   color: $base-lightener-color;
@@ -894,7 +896,7 @@
   content: '';
   width: 0.25em;
   height: 0.25em;
-  background: $link;
+  background: $link-color;
   position: absolute;
   left: 0.5em;
   top: 0.4375em;
@@ -962,7 +964,7 @@
 }
 .gt-container .gt-header-controls-tip {
   font-size: 0.875em;
-  color: $link;
+  color: $link-color;
   text-decoration: none;
   vertical-align: sub;
 }
@@ -1054,7 +1056,7 @@
 }
 .gt-container .gt-comment-username {
   font-weight: 500;
-  color: $link;
+  color: $link-color;
   text-decoration: none;
 }
 .gt-container .gt-comment-username:hover {
