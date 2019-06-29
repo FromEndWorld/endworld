@@ -1041,6 +1041,10 @@
   overflow: auto;
   -webkit-transition: all ease 0.25s;
   transition: all ease 0.25s;
+
+  &:hover {
+    background-color: $white;
+  }
 }
 
 @media (max-width: 479px) {
