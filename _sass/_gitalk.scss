@@ -20,7 +20,7 @@
   a {
     background-color: transparent;
     -webkit-text-decoration-skip: objects;
-    color: #0366d6;
+    color: $link-color;
     text-decoration: none;
 
     &:hover, &:active {
@@ -154,7 +154,7 @@
   }
   .pl-c1, 
   .pl-s .pl-v {
-    color: #005cc5; 
+    color: $link-color; 
   }  
   .pl-e, 
   .pl-en {
@@ -208,7 +208,7 @@
   .pl-mh .pl-en,
   .pl-ms {
   font-weight: bold;
-  color: #005cc5;
+  color: $link-color;
   }
   .pl-mi {
     font-style: italic;
@@ -232,7 +232,7 @@
   }
   .pl-mi2 {
     color: #f6f8fa;
-    background-color: #005cc5;
+    background-color: $link-color;
   }
   .pl-mdr {
     font-weight: bold;
@@ -567,8 +567,8 @@
 }
 
 .markdown-body .full-commit .btn-outline:not(:disabled):hover {
-  color: #005cc5;
-  border-color: #005cc5;
+  color: $link-color;
+  border-color: $link-color;
 }
 
 .markdown-body kbd {
@@ -589,7 +589,7 @@
 .markdown-body :checked+.radio-label {
   position: relative;
   z-index: 1;
-  border-color: #0366d6;
+  border-color: $link-color;
 }
 
 .markdown-body .task-list-item {
@@ -787,7 +787,7 @@
   color: $link-color;
 }
 .gt-container .gt-btn-preview:hover {
-  background-color: #f2f2f2;
+  background-color: $background-lighten-color;
   border-color: $link-lighten-color;
 }
 .gt-container .gt-btn-public:hover {
@@ -1098,13 +1098,13 @@
   right: 0;
 }
 
-.gt-container .gt-comment-admin .gt-comment-content {
+/* .gt-container .gt-comment-admin .gt-comment-content {
   background-color: $background-lighten-color;
 
   & :hover{
     background-color:$background-lightener-color;
   }
-}
+} */
 
 @-webkit-keyframes gt-kf-rotate {
   0% {
