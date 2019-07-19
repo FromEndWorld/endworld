@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% include toc.html html=content %}
+
 
 <article class="posts">
   <h1>{{ page.title }}</h1>
@@ -10,6 +10,10 @@ layout: default
     <span class="date">
       {{ page.date | date: "%Y-%m-%d" }}
     </span>
+
+    <div class="toc">
+      {% include toc.html html=content %}
+    </div>
 
     <ul class="tag">
       {% for tag in page.tags %}
