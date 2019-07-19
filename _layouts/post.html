@@ -11,10 +11,6 @@ layout: default
       {{ page.date | date: "%Y-%m-%d" }}
     </span>
 
-    <div class="toc">
-      {% include toc.html html=content %}
-    </div>
-
     <ul class="tag">
       {% for tag in page.tags %}
       <li>
@@ -24,6 +20,10 @@ layout: default
       </li>
       {% endfor %}
     </ul>
+  </div>
+
+  <div class="toc">
+    {% include toc.html html=content %}
   </div>
 
   <div class="entry">
