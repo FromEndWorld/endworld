@@ -525,6 +525,12 @@ nav {
   padding: 100px 20px 0 40px;
 }
 
+@media screen and (min-width:2200px) and (max-width:1200px){
+  .withtoc{
+    padding-left: 260px;
+  }
+}
+
 .pagination {
   border-top: 1px solid $divider-color;
   font-weight: 300;
