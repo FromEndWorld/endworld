@@ -25,13 +25,13 @@ Below is just about everything you'll need to style in the theme. Check the sour
 
 ### 1-1. Header Alignment 
 
-##### Left(Default)
+#### Left(Default)
 
-##### Center
+#### Center
 
 {: .center}
 
-##### Right
+#### Right
 
 {: .right}
 
