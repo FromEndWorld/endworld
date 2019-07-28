@@ -2,7 +2,7 @@
 
 ### 文章版权
 
-**[_posts](https://github.com/FromEndWorld/fromendworld.github.io/tree/master/_posts)** 文件夹内的所有文章版权均属于列出的文章作者，禁止一切未经授权的复制、修改、出版、发布和出售。
+**_posts** 文件夹内的所有文章版权均属于列出的文章作者，禁止一切未经授权的复制、修改、出版、发布和出售。
 
 ### 博客主题
 
