@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 
 title: "杂谈Chernobyl"
 date:   2019-07-12
 tags: [tvReview]
