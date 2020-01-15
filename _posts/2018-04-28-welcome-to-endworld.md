@@ -2,7 +2,7 @@
 layout: post
 title:  "欢迎来到末世界"
 date:   2018-04-28
-categories: sticky
+pinned: true 
 tags: [关于本站]
 description: 关于本博客，一点说明
 ---
