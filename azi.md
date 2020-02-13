@@ -1,8 +1,9 @@
 ---
 layout: page
 title: legitimacy and necessity of public contestation
-permalink: /azi-article/
+permalink: /azi-public-contestation/
 ---
+## 公共质疑的正当性和必要性
 
 最近网上有太多话术让我想讨论。让我看看我能不能试图跟一些不太理解的人，讲明白为什么某些人，包括我，这么想。
 
