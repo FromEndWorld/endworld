@@ -4,6 +4,7 @@ title: "说说新西兰的新冠应对"
 date:   2020-06-16
 tags: [COVID-19]
 comments: true
+toc: true
 author: 来自中世界
 ---
 这个之前写了一部分在Matters上，现在补完并发到博客上。很多看法和写的时间很有关系，所以也都标出来了
