@@ -1,8 +1,8 @@
 # This is my personal blog, please do not fork
 # 这是我的个人博客，请不要fork
 
-## The theme is available in [LOFFER](https://fromendworld.github.io/LOFFER/), please fork that instead!
-## Thank you
+## The theme is available in [LOFFER](https://fromendworld.github.io/LOFFER/), please fork that instead. 
+## Thank you.
 
 
 ### 文章版权
