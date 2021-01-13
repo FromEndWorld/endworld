@@ -1,6 +1,7 @@
-# This is my personal blog, please do not fork
 # 这是我的个人博客，请不要fork
+# This is my personal blog, please DO NOT fork
 
+## 喜欢这个博客主题的话，请fork [LOFFER](https://github.com/FromEndWorld/LOFFER)。
 ## The theme is available as [LOFFER](https://github.com/FromEndWorld/LOFFER), please fork that instead. 
 ## Thank you.
 
